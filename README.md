@@ -1,1 +1,1 @@
-# ble_app
+Privacy Policy of BLE Serial Console App
